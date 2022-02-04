@@ -26,12 +26,8 @@ int main(void) {
     printBook(&Book1);
     
 
-    printBook(&Book1);
-
-
     return 0;
 }
-
 
 
 //takes a pointer to a book
