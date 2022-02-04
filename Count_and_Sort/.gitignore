@@ -1,0 +1,5 @@
+#CUSTOM GIT IGNORE FILE
+
+*.un~
+*.~
+*.exe
